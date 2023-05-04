@@ -1,0 +1,9 @@
+.D1 {
+    margin-top: 1cm;
+    background: rgb(128,125,172);
+    background: linear-gradient(90deg, rgba(128,125,172,1) 0%, rgba(158,215,107,1) 26%, rgba(40,102,208,1) 57%, rgba(248,0,255,1) 91%);
+    
+}
+.D2{
+    background-color: rgba(214, 28, 28, 0.61);
+}
